@@ -28,5 +28,5 @@ Links: Integrate links to your corresponding social media profiles.
 )
 
 
-[Social Media Icons on CodePen](https://codepen.io/AmandaNokubonga/pen/your_project_unique_id)
+[Social Media Icons on CodePen](https://codepen.io/AmandaNokubonga/pen/MWdmEzy)
 

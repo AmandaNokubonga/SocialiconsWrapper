@@ -24,4 +24,7 @@ Animations: Implement animations to make the hover effects more visually appeali
 Additional icons: Add icons for other social media platforms or services.
 Links: Integrate links to your corresponding social media profiles.
 
+[Image of Social Media Icons](![Screenshot 2024-06-06 094703](https://github.com/AmandaNokubonga/SocialiconsWrapper/assets/133246847/14194c10-a528-4849-9296-423b33347fc4)
+)
+
 
